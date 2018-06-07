@@ -1,0 +1,37 @@
+  *{
+      padding:0;
+      margin:0;
+      text-decoration:none;
+  }
+   body{
+       padding-top:60px;
+       padding-bottom:40px;
+   }
+   .container{
+    margin: 0 auto; /* Center the DIV horizontally */
+}
+ h1{
+    
+        margin-top: 5px;
+        font-family: georgia;
+        color:"#ffff";
+        text-align:left ;
+        background: "#aaaa5";
+    }
+    
+
+        ul{ 
+            width:100%;
+            background: #fff;
+            direction: rtl;
+            }
+                ul li {
+                    padding: 5px;
+                    color:#ffffff;
+                    display:inline-block;
+                }
+        ul li:nth-child(1){
+            margin-right: 20px;
+        }
+
+        
